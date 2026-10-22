@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Affinity_LegacyANNBackpropBPROP2FileExporter/1.0.0": {
+        "runtime": {
+          "Affinity_LegacyANNBackpropBPROP2FileExporter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Affinity_LegacyANNBackpropBPROP2FileExporter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

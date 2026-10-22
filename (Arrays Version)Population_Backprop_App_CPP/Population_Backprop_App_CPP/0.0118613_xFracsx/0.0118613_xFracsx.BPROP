@@ -1,0 +1,15 @@
+### Backprop Identification ###
+ID=0-B
+File Title=xFracsx
+
+### Input Files - !!! NEVER MODIFY THIS PART !!! ###
+DO NOT MODIFY: Dataset file location=C:\Killian Intelligence Systems\Data Files\Fractions\Fractions.DATA
+DO NOT MODIFY: ANN file location=0.0118613_xFracsx\0.0118613_xFracsx.ANN
+
+### Training Configuration ###
+Initial rho value=0.000000
+Rho multiplier=0.990000
+Rho interval=200
+Use Momentum=1
+Momentum scaler=0.300000
+Simulated annealing max percent(%)=1

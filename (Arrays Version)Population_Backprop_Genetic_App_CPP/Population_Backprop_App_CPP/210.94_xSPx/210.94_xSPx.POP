@@ -1,0 +1,29 @@
+### Data Set ###
+Dataset file location=SP.DATA
+
+### Population Configuration ###
+Population Size=5
+Generations=50
+Epochs Per Generation=10
+New Generation Method=1
+
+### Network Topology ###
+Hidden Neurons=50
+Hidden Layers=1
+
+### Training Configuation ###
+Max weight value=1
+Max bias value= 1
+Initial rho value=0.00000001
+Rho multiplier=0.99
+Dynamic rho interval=200
+Use Momentum=False
+Momentum Scaler=0.3
+Simulated annealing max percent(%)=1
+
+### Save Data Settings ###
+Generation Save Interval=1
+File Title=xSPx
+
+### Console Logging ###
+Verbose Logging=1

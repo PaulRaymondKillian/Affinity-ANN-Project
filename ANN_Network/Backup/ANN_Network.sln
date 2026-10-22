@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ANN_Network", "ANN_Network\ANN_Network.vbproj", "{F241C875-B0CB-4B6E-B7B2-5D592CE1AAB7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TestHarness", "TestHarness\TestHarness.vbproj", "{BD4F8261-0261-4E00-AF5B-DE55415949E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F241C875-B0CB-4B6E-B7B2-5D592CE1AAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F241C875-B0CB-4B6E-B7B2-5D592CE1AAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F241C875-B0CB-4B6E-B7B2-5D592CE1AAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F241C875-B0CB-4B6E-B7B2-5D592CE1AAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD4F8261-0261-4E00-AF5B-DE55415949E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4F8261-0261-4E00-AF5B-DE55415949E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4F8261-0261-4E00-AF5B-DE55415949E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4F8261-0261-4E00-AF5B-DE55415949E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

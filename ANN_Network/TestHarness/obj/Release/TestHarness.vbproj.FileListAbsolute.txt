@@ -1,0 +1,37 @@
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\bin\Release\TestHarness.exe
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\bin\Release\TestHarness.pdb
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\bin\Release\TestHarness.xml
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\bin\Release\ANN_Network.dll
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\bin\Release\ANN_Network.pdb
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\bin\Release\ANN_Network.xml
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\obj\Release\ResolveAssemblyReference.cache
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\obj\Release\TestHarness.Resources.resources
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\obj\Release\TestHarness.vbproj.GenerateResource.Cache
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\obj\Release\TestHarness.exe
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\obj\Release\TestHarness.xml
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\obj\Release\TestHarness.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\bin\Release\TestHarness.exe
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\bin\Release\TestHarness.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\bin\Release\TestHarness.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\bin\Release\ANN_Network.dll
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\bin\Release\ANN_Network.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\bin\Release\ANN_Network.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\obj\Release\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\obj\Release\TestHarness.Resources.resources
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\obj\Release\TestHarness.vbproj.GenerateResource.Cache
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\obj\Release\TestHarness.exe
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\obj\Release\TestHarness.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\obj\Release\TestHarness.pdb
+C:\_Killian Intelligence Systems\Affinity\ANN_Network\TestHarness\bin\Release\TestHarness.exe
+C:\_Killian Intelligence Systems\Affinity\ANN_Network\TestHarness\bin\Release\TestHarness.pdb
+C:\_Killian Intelligence Systems\Affinity\ANN_Network\TestHarness\bin\Release\TestHarness.xml
+C:\_Killian Intelligence Systems\Affinity\ANN_Network\TestHarness\bin\Release\ANN_Network.dll
+C:\_Killian Intelligence Systems\Affinity\ANN_Network\TestHarness\bin\Release\ANN_Network.pdb
+C:\_Killian Intelligence Systems\Affinity\ANN_Network\TestHarness\bin\Release\ANN_Network.xml
+C:\_Killian Intelligence Systems\Affinity\ANN_Network\TestHarness\obj\Release\TestHarness.vbprojAssemblyReference.cache
+C:\_Killian Intelligence Systems\Affinity\ANN_Network\TestHarness\obj\Release\TestHarness.Resources.resources
+C:\_Killian Intelligence Systems\Affinity\ANN_Network\TestHarness\obj\Release\TestHarness.vbproj.GenerateResource.cache
+C:\_Killian Intelligence Systems\Affinity\ANN_Network\TestHarness\obj\Release\TestHarness.vbproj.CopyComplete
+C:\_Killian Intelligence Systems\Affinity\ANN_Network\TestHarness\obj\Release\TestHarness.exe
+C:\_Killian Intelligence Systems\Affinity\ANN_Network\TestHarness\obj\Release\TestHarness.xml
+C:\_Killian Intelligence Systems\Affinity\ANN_Network\TestHarness\obj\Release\TestHarness.pdb

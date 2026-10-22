@@ -1,0 +1,33 @@
+D:\Artificial Neural Network Framework\ANN_Run_Network\ANN_Run_Network\bin\Release\ANN_Run_Network.exe
+D:\Artificial Neural Network Framework\ANN_Run_Network\ANN_Run_Network\bin\Release\ANN_Run_Network.pdb
+D:\Artificial Neural Network Framework\ANN_Run_Network\ANN_Run_Network\bin\Release\ANN_Run_Network.xml
+D:\Artificial Neural Network Framework\ANN_Run_Network\ANN_Run_Network\bin\Release\ANN_Network.dll
+D:\Artificial Neural Network Framework\ANN_Run_Network\ANN_Run_Network\bin\Release\ANN_Network.pdb
+D:\Artificial Neural Network Framework\ANN_Run_Network\ANN_Run_Network\bin\Release\ANN_Network.xml
+D:\Artificial Neural Network Framework\ANN_Run_Network\ANN_Run_Network\obj\Release\ResolveAssemblyReference.cache
+D:\Artificial Neural Network Framework\ANN_Run_Network\ANN_Run_Network\obj\Release\ANN_Run_Network.Form1.resources
+D:\Artificial Neural Network Framework\ANN_Run_Network\ANN_Run_Network\obj\Release\ANN_Run_Network.Resources.resources
+D:\Artificial Neural Network Framework\ANN_Run_Network\ANN_Run_Network\obj\Release\ANN_Run_Network.vbproj.GenerateResource.Cache
+D:\Artificial Neural Network Framework\ANN_Run_Network\ANN_Run_Network\obj\Release\ANN_Run_Network.exe
+D:\Artificial Neural Network Framework\ANN_Run_Network\ANN_Run_Network\obj\Release\ANN_Run_Network.xml
+D:\Artificial Neural Network Framework\ANN_Run_Network\ANN_Run_Network\obj\Release\ANN_Run_Network.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Run_Network\ANN_Run_Network\obj\Release\ANN_Run_Network.exe
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Run_Network\ANN_Run_Network\obj\Release\ANN_Run_Network.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Run_Network\ANN_Run_Network\obj\Release\ANN_Run_Network.pdb
+C:\_Killian Intelligence Systems\Affinity\ANN_Run_Network\ANN_Run_Network\obj\Release\ANN_Run_Network.vbprojAssemblyReference.cache
+C:\_Killian Intelligence Systems\Affinity\ANN_Run_Network\ANN_Run_Network\obj\Release\ANN_Run_Network.Form1.resources
+C:\_Killian Intelligence Systems\Affinity\ANN_Run_Network\ANN_Run_Network\obj\Release\ANN_Run_Network.Resources.resources
+C:\_Killian Intelligence Systems\Affinity\ANN_Run_Network\ANN_Run_Network\obj\Release\ANN_Run_Network.vbproj.GenerateResource.cache
+C:\_Killian Intelligence Systems\Affinity\ANN_Run_Network\ANN_Run_Network\obj\Release\ANN_Run_Network.exe
+C:\_Killian Intelligence Systems\Affinity\ANN_Run_Network\ANN_Run_Network\obj\Release\ANN_Run_Network.xml
+C:\_Killian Intelligence Systems\Affinity\ANN_Run_Network\ANN_Run_Network\obj\Release\ANN_Run_Network.pdb
+C:\_Killian Intelligence Systems\Affinity\ANN_Run_Network\ANN_Run_Network\bin\Release\ANN_Run_Network.exe.manifest
+C:\_Killian Intelligence Systems\Affinity\ANN_Run_Network\ANN_Run_Network\bin\Release\ANN_Run_Network.application
+C:\_Killian Intelligence Systems\Affinity\ANN_Run_Network\ANN_Run_Network\bin\Release\ANN_Run_Network.exe
+C:\_Killian Intelligence Systems\Affinity\ANN_Run_Network\ANN_Run_Network\bin\Release\ANN_Run_Network.pdb
+C:\_Killian Intelligence Systems\Affinity\ANN_Run_Network\ANN_Run_Network\bin\Release\ANN_Run_Network.xml
+C:\_Killian Intelligence Systems\Affinity\ANN_Run_Network\ANN_Run_Network\bin\Release\ANN_Network.pdb
+C:\_Killian Intelligence Systems\Affinity\ANN_Run_Network\ANN_Run_Network\bin\Release\ANN_Network.xml
+C:\_Killian Intelligence Systems\Affinity\ANN_Run_Network\ANN_Run_Network\obj\Release\ANN_Run_Network.exe.manifest
+C:\_Killian Intelligence Systems\Affinity\ANN_Run_Network\ANN_Run_Network\obj\Release\ANN_Run_Network.application
+C:\_Killian Intelligence Systems\Affinity\ANN_Run_Network\ANN_Run_Network\obj\Release\ANN_Run_Network.vbproj.CopyComplete

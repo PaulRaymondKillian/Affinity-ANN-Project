@@ -1,0 +1,15 @@
+### Backprop Identification ###
+ID=0
+File Title=xSPx
+
+### Input Files - !!! NEVER MODIFY THIS PART !!! ###
+DO NOT MODIFY: Dataset file location=SP.DATA
+DO NOT MODIFY: ANN file location=270.671_xSPx\270.671_xSPx.ANN
+
+### Training Configuration ###
+Initial rho value=0.000000
+Rho multiplier=0.990000
+Rho interval=200
+Use Momentum=0
+Momentum scaler=0.300000
+Simulated annealing max percent(%)=1

@@ -1,0 +1,30 @@
+### Data Set ###
+Dataset file location=C:\_KillianIntelligentAnalytics\Affinity\Train - Fractions\Fractions.DATA
+
+### Population Configuration ###
+Population Size=50
+Generations=100
+Epochs Per Generation=100
+New Pop Generation Method=100
+
+### Network Topology ### - If AutoTopology=True, the 2 items below are ignored
+AutoTopology=False
+Hidden Neurons=500
+Hidden Layers=1
+
+### Training Configuation ###
+Max weight value=0.00001
+Max bias value= 0.00001
+Initial rho value=0.00001
+Rho multiplier=0.9
+Dynamic rho interval=50
+Use Momentum=False
+Momentum Scaler=0.3
+Simulated annealing max percent(%)=1
+
+### Save Data Settings ###
+Generation Save Interval=1
+File Title=Fractions_PopTest
+
+### Console Logging ###
+Verbose Logging=True

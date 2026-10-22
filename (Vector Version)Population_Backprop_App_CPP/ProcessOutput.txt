@@ -1,0 +1,12 @@
+Population_Backprop_App_CPP
+
+BestBackpropID: 0-B	BestBackprop Fitness: 1.572322
+
+Initial Population Avg Fitness: 1.000000
+Best Backprop Fitness Generation 0: 1.994125	AvgFitness: 1.000000
+Best Backprop Fitness Generation 1: 1.994125	AvgFitness: 1.000000
+Best Backprop Fitness Generation 2: 1.994125	AvgFitness: 1.000000
+Best Backprop Fitness Generation 3: 1.862009	AvgFitness: 1.000000
+Best Backprop Fitness Generation 4: 1.572322	AvgFitness: 1.000000
+
+Processed In: 19 Seconds

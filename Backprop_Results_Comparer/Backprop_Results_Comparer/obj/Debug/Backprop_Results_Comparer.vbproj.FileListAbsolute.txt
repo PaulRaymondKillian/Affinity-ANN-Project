@@ -1,0 +1,27 @@
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Backprop_Results_Comparer\bin\Debug\Backprop_Results_Comparer.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Backprop_Results_Comparer\bin\Debug\Backprop_Results_Comparer.pdb
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Backprop_Results_Comparer\bin\Debug\Backprop_Results_Comparer.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Backprop_Results_Comparer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Backprop_Results_Comparer\obj\Debug\Backprop_Results_Comparer.Form1.resources
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Backprop_Results_Comparer\obj\Debug\Backprop_Results_Comparer.Resources.resources
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Backprop_Results_Comparer\obj\Debug\Backprop_Results_Comparer.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Backprop_Results_Comparer\obj\Debug\Backprop_Results_Comparer.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Backprop_Results_Comparer\obj\Debug\Backprop_Results_Comparer.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\Backprop_Results_Comparer\obj\Debug\Backprop_Results_Comparer.pdb
+D:\Backprop_Results_Comparer\Backprop_Results_Comparer\obj\Debug\Backprop_Results_Comparer.exe
+D:\Backprop_Results_Comparer\Backprop_Results_Comparer\obj\Debug\Backprop_Results_Comparer.xml
+D:\Backprop_Results_Comparer\Backprop_Results_Comparer\obj\Debug\Backprop_Results_Comparer.pdb
+C:\_Killian Intelligence Systems\Affinity\Backprop_Results_Comparer\Backprop_Results_Comparer\obj\Debug\Backprop_Results_Comparer.Form1.resources
+C:\_Killian Intelligence Systems\Affinity\Backprop_Results_Comparer\Backprop_Results_Comparer\obj\Debug\Backprop_Results_Comparer.Resources.resources
+C:\_Killian Intelligence Systems\Affinity\Backprop_Results_Comparer\Backprop_Results_Comparer\obj\Debug\Backprop_Results_Comparer.vbproj.GenerateResource.cache
+C:\_Killian Intelligence Systems\Affinity\Backprop_Results_Comparer\Backprop_Results_Comparer\obj\Debug\Backprop_Results_Comparer.exe
+C:\_Killian Intelligence Systems\Affinity\Backprop_Results_Comparer\Backprop_Results_Comparer\obj\Debug\Backprop_Results_Comparer.xml
+C:\_Killian Intelligence Systems\Affinity\Backprop_Results_Comparer\Backprop_Results_Comparer\obj\Debug\Backprop_Results_Comparer.pdb
+C:\_Killian Intelligence Systems\Affinity\Backprop_Results_Comparer\Backprop_Results_Comparer\bin\Debug\Backprop_Results_Comparer.exe.manifest
+C:\_Killian Intelligence Systems\Affinity\Backprop_Results_Comparer\Backprop_Results_Comparer\bin\Debug\Backprop_Results_Comparer.application
+C:\_Killian Intelligence Systems\Affinity\Backprop_Results_Comparer\Backprop_Results_Comparer\bin\Debug\Backprop_Results_Comparer.exe
+C:\_Killian Intelligence Systems\Affinity\Backprop_Results_Comparer\Backprop_Results_Comparer\bin\Debug\Backprop_Results_Comparer.pdb
+C:\_Killian Intelligence Systems\Affinity\Backprop_Results_Comparer\Backprop_Results_Comparer\bin\Debug\Backprop_Results_Comparer.xml
+C:\_Killian Intelligence Systems\Affinity\Backprop_Results_Comparer\Backprop_Results_Comparer\obj\Debug\Backprop_Results_Comparer.vbprojAssemblyReference.cache
+C:\_Killian Intelligence Systems\Affinity\Backprop_Results_Comparer\Backprop_Results_Comparer\obj\Debug\Backprop_Results_Comparer.exe.manifest
+C:\_Killian Intelligence Systems\Affinity\Backprop_Results_Comparer\Backprop_Results_Comparer\obj\Debug\Backprop_Results_Comparer.application

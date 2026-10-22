@@ -1,0 +1,51 @@
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop_Learner_Console.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop_Learner_Console.pdb
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop_Learner_Console.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop.dll
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\bin\Debug\ANN_Network.dll
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop.pdb
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\bin\Debug\ANN_Network.pdb
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\bin\Debug\ANN_Network.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.Resources.resources
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.exe
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.xml
+C:\Documents and Settings\Mutiny34\Local Settings\Application Data\Temporary Projects\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop_Learner_Console.exe.manifest
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop_Learner_Console.application
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop_Learner_Console.exe
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop_Learner_Console.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop_Learner_Console.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop.dll
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\bin\Debug\ANN_Network.dll
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\bin\Debug\ANN_Network.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\bin\Debug\ANN_Network.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\obj\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.Resources.resources
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.vbproj.GenerateResource.Cache
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.exe.manifest
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.application
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.exe
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.pdb
+C:\_KillianIntelligentAnalytics\Affinity\KIS-NET\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.Resources.resources
+C:\_KillianIntelligentAnalytics\Affinity\KIS-NET\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.vbproj.GenerateResource.cache
+C:\_KillianIntelligentAnalytics\Affinity\KIS-NET\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.exe
+C:\_KillianIntelligentAnalytics\Affinity\KIS-NET\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.xml
+C:\_KillianIntelligentAnalytics\Affinity\KIS-NET\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.pdb
+C:\_KillianIntelligentAnalytics\Affinity\KIS-NET\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop_Learner_Console.exe.manifest
+C:\_KillianIntelligentAnalytics\Affinity\KIS-NET\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop_Learner_Console.application
+C:\_KillianIntelligentAnalytics\Affinity\KIS-NET\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop_Learner_Console.exe
+C:\_KillianIntelligentAnalytics\Affinity\KIS-NET\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop_Learner_Console.pdb
+C:\_KillianIntelligentAnalytics\Affinity\KIS-NET\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop_Learner_Console.xml
+C:\_KillianIntelligentAnalytics\Affinity\KIS-NET\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop.pdb
+C:\_KillianIntelligentAnalytics\Affinity\KIS-NET\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\bin\Debug\ANN_Backprop.xml
+C:\_KillianIntelligentAnalytics\Affinity\KIS-NET\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\bin\Debug\ANN_Network.pdb
+C:\_KillianIntelligentAnalytics\Affinity\KIS-NET\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\bin\Debug\ANN_Network.xml
+C:\_KillianIntelligentAnalytics\Affinity\KIS-NET\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.exe.manifest
+C:\_KillianIntelligentAnalytics\Affinity\KIS-NET\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.application
+C:\_KillianIntelligentAnalytics\Affinity\KIS-NET\ANN_Backprop_Learner_Console\ANN_Backprop_Learner_Console\obj\Debug\ANN_Backprop_Learner_Console.vbproj.CopyComplete

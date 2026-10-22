@@ -1,0 +1,19 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Backprop_Process_App_CPP.cpp
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP\Backprop_Process_App_CPP\Backprop_Process_App_CPP.cpp(187,48): warning C4551: function call missing argument list
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP\Backprop_Process_App_CPP\Backprop_Process_App_CPP.cpp(939,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP\Backprop_Process_App_CPP\Backprop_Process_App_CPP.cpp(940,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP\Backprop_Process_App_CPP\Backprop_Process_App_CPP.cpp(992,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP\Backprop_Process_App_CPP\Backprop_Process_App_CPP.cpp(1357,21): warning C4018: '<=': signed/unsigned mismatch
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP\Backprop_Process_App_CPP\Backprop_Process_App_CPP.cpp(1478,15): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP\Backprop_Process_App_CPP\Backprop_Process_App_CPP.cpp(1556,62): warning C4551: function call missing argument list
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP\Backprop_Process_App_CPP\Backprop_Process_App_CPP.cpp(1570,88): warning C4551: function call missing argument list
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP\Backprop_Process_App_CPP\Backprop_Process_App_CPP.cpp(1586,89): warning C4551: function call missing argument list
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP\Backprop_Process_App_CPP\Backprop_Process_App_CPP.cpp(1802,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP\Backprop_Process_App_CPP\Backprop_Process_App_CPP.cpp(1814,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP\Backprop_Process_App_CPP\Backprop_Process_App_CPP.cpp(1850,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP\Backprop_Process_App_CPP\Backprop_Process_App_CPP.cpp(1886,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP\Backprop_Process_App_CPP\Backprop_Process_App_CPP.cpp(1898,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP\Backprop_Process_App_CPP\Backprop_Process_App_CPP.cpp(1910,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP\Backprop_Process_App_CPP\Backprop_Process_App_CPP.cpp(1934,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Backprop_Process_App_CPP.vcxproj -> C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP\Debug\Backprop_Process_App_CPP.exe

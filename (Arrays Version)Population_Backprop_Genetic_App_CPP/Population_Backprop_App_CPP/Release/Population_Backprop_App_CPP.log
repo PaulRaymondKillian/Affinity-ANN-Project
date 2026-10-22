@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Population_Backprop_App_CPP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Population.cpp
+C:\_Killian Intelligence Systems\Affinity\(Arrays Version)Population_Backprop_Genetic_App_CPP\Population_Backprop_App_CPP\Population.cpp(197,12): warning C4553: '==': result of expression not used; did you intend '='?
+C:\_Killian Intelligence Systems\Affinity\(Arrays Version)Population_Backprop_Genetic_App_CPP\Population_Backprop_App_CPP\Population.cpp(416,3): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\_Killian Intelligence Systems\Affinity\(Arrays Version)Population_Backprop_Genetic_App_CPP\Population_Backprop_App_CPP\Population.cpp(460,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\Affinity\(Arrays Version)Population_Backprop_Genetic_App_CPP\Population_Backprop_App_CPP\Population.cpp(465,3): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\_Killian Intelligence Systems\Affinity\(Arrays Version)Population_Backprop_Genetic_App_CPP\Population_Backprop_App_CPP\Population.cpp(475,19): warning C4018: '<=': signed/unsigned mismatch
+C:\_Killian Intelligence Systems\Affinity\(Arrays Version)Population_Backprop_Genetic_App_CPP\Population_Backprop_App_CPP\Population.cpp(584,22): warning C4018: '<=': signed/unsigned mismatch
+  Generating code
+  2 of 591 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Population_Backprop_App_CPP.vcxproj -> C:\_Killian Intelligence Systems\Affinity\(Arrays Version)Population_Backprop_Genetic_App_CPP\Release\Population_Backprop_Genetic_App_CPP.exe

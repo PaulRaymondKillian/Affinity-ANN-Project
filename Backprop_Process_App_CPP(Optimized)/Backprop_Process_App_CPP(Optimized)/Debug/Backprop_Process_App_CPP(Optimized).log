@@ -1,0 +1,18 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : command line warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+  Backprop_Process_App_CPP(Optimized).cpp
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized).cpp(164,48): warning C4551: function call missing argument list
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized).cpp(139,8): warning C4101: 'NewSBSize2': unreferenced local variable
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized).cpp(903,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized).cpp(904,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized).cpp(956,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized).cpp(1312,21): warning C4018: '<=': signed/unsigned mismatch
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized).cpp(1420,15): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized).cpp(1497,62): warning C4551: function call missing argument list
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized).cpp(1511,88): warning C4551: function call missing argument list
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized).cpp(1527,89): warning C4551: function call missing argument list
+  Backprop_Process_App_CPP(Optimized).obj : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  Finished generating code
+  Backprop_Process_App_CPP(Optimized).vcxproj -> C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Debug\Backprop_Process_App_CPP(Optimized).exe

@@ -1,0 +1,18 @@
+D:\Artificial Neural Network Framework\ANN_Network\ANN_Network\bin\Debug\ANN_Network.dll
+D:\Artificial Neural Network Framework\ANN_Network\ANN_Network\bin\Debug\ANN_Network.pdb
+D:\Artificial Neural Network Framework\ANN_Network\ANN_Network\bin\Debug\ANN_Network.xml
+D:\Artificial Neural Network Framework\ANN_Network\ANN_Network\obj\Debug\ResolveAssemblyReference.cache
+D:\Artificial Neural Network Framework\ANN_Network\ANN_Network\obj\Debug\ANN_Network.Resources.resources
+D:\Artificial Neural Network Framework\ANN_Network\ANN_Network\obj\Debug\ANN_Network.vbproj.GenerateResource.Cache
+D:\Artificial Neural Network Framework\ANN_Network\ANN_Network\obj\Debug\ANN_Network.dll
+D:\Artificial Neural Network Framework\ANN_Network\ANN_Network\obj\Debug\ANN_Network.xml
+D:\Artificial Neural Network Framework\ANN_Network\ANN_Network\obj\Debug\ANN_Network.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\ANN_Network\bin\Debug\ANN_Network.dll
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\ANN_Network\bin\Debug\ANN_Network.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\ANN_Network\bin\Debug\ANN_Network.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\ANN_Network\obj\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\ANN_Network\obj\Debug\ANN_Network.Resources.resources
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\ANN_Network\obj\Debug\ANN_Network.vbproj.GenerateResource.Cache
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\ANN_Network\obj\Debug\ANN_Network.dll
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\ANN_Network\obj\Debug\ANN_Network.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\ANN_Network\obj\Debug\ANN_Network.pdb

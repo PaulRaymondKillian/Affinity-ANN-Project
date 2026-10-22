@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Population_Backprop_App_CPP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Population.cpp
+C:\_Killian Intelligence Systems\Affinity\(Arrays Version)Population_Backprop_Genetic_App_CPP\Population_Backprop_App_CPP\Population.cpp(482,3): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\_Killian Intelligence Systems\Affinity\(Arrays Version)Population_Backprop_Genetic_App_CPP\Population_Backprop_App_CPP\Population.cpp(526,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\Affinity\(Arrays Version)Population_Backprop_Genetic_App_CPP\Population_Backprop_App_CPP\Population.cpp(531,3): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\_Killian Intelligence Systems\Affinity\(Arrays Version)Population_Backprop_Genetic_App_CPP\Population_Backprop_App_CPP\Population.cpp(541,19): warning C4018: '<=': signed/unsigned mismatch
+C:\_Killian Intelligence Systems\Affinity\(Arrays Version)Population_Backprop_Genetic_App_CPP\Population_Backprop_App_CPP\Population.cpp(650,22): warning C4018: '<=': signed/unsigned mismatch
+  Population_Backprop_App_CPP.vcxproj -> C:\_Killian Intelligence Systems\Affinity\(Arrays Version)Population_Backprop_Genetic_App_CPP\Debug\Population_Backprop_Genetic_App_CPP.exe

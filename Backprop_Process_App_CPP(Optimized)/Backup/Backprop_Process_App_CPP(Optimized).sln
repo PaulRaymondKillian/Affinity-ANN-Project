@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Backprop_Process_App_CPP(Optimized)", "Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized).vcproj", "{31BF0EF8-025D-43AC-BEC7-B42BA28657A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31BF0EF8-025D-43AC-BEC7-B42BA28657A7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{31BF0EF8-025D-43AC-BEC7-B42BA28657A7}.Debug|Win32.Build.0 = Debug|Win32
+		{31BF0EF8-025D-43AC-BEC7-B42BA28657A7}.Release|Win32.ActiveCfg = Release|Win32
+		{31BF0EF8-025D-43AC-BEC7-B42BA28657A7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

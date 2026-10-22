@@ -1,0 +1,19 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Population_Backprop_APP_CPP.cpp
+  Population.cpp
+C:\_Killian Intelligence Systems\_Updated 2019\(Arrays Version)Population_Backprop_App_CPP\Population_Backprop_App_CPP\Population.cpp(359,3): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\_Killian Intelligence Systems\_Updated 2019\(Arrays Version)Population_Backprop_App_CPP\Population_Backprop_App_CPP\Population.cpp(402,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\_Updated 2019\(Arrays Version)Population_Backprop_App_CPP\Population_Backprop_App_CPP\Population.cpp(407,3): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\_Killian Intelligence Systems\_Updated 2019\(Arrays Version)Population_Backprop_App_CPP\Population_Backprop_App_CPP\Population.cpp(417,19): warning C4018: '<=': signed/unsigned mismatch
+C:\_Killian Intelligence Systems\_Updated 2019\(Arrays Version)Population_Backprop_App_CPP\Population_Backprop_App_CPP\Population.cpp(526,22): warning C4018: '<=': signed/unsigned mismatch
+  Backprop.cpp
+C:\_Killian Intelligence Systems\_Updated 2019\(Arrays Version)Population_Backprop_App_CPP\Population_Backprop_App_CPP\Backprop.cpp(24,20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\_Killian Intelligence Systems\_Updated 2019\(Arrays Version)Population_Backprop_App_CPP\Population_Backprop_App_CPP\Backprop.cpp(471,2): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\_Killian Intelligence Systems\_Updated 2019\(Arrays Version)Population_Backprop_App_CPP\Population_Backprop_App_CPP\Backprop.cpp(523,2): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\_Killian Intelligence Systems\_Updated 2019\(Arrays Version)Population_Backprop_App_CPP\Population_Backprop_App_CPP\Backprop.cpp(556,2): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\_Killian Intelligence Systems\_Updated 2019\(Arrays Version)Population_Backprop_App_CPP\Population_Backprop_App_CPP\Backprop.cpp(958,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\_Updated 2019\(Arrays Version)Population_Backprop_App_CPP\Population_Backprop_App_CPP\Backprop.cpp(988,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\_Updated 2019\(Arrays Version)Population_Backprop_App_CPP\Population_Backprop_App_CPP\Backprop.cpp(989,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+Backprop.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Population_Backprop_App_CPP.vcxproj -> C:\_Killian Intelligence Systems\_Updated 2019\(Arrays Version)Population_Backprop_App_CPP\Debug\Population_Backprop_App_CPP.exe

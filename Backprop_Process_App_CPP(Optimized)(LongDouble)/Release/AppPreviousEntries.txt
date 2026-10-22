@@ -1,0 +1,3 @@
+C:\_KillianIntelligentAnalytics\ProductionFiles\UtilityIndustry\UtilityIndustry_StockList_Large.BPROP2
+C:\_KillianIntelligentAnalytics\ProductionFiles\FinancialIndustry\Set1\FinancialIndustry_StockList_Set1.BPROP2
+C:\KIS\Fractions1.BPROP2

@@ -1,0 +1,24 @@
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\bin\Debug\TestHarness.exe
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\bin\Debug\TestHarness.pdb
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\bin\Debug\TestHarness.xml
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\bin\Debug\ANN_Network.dll
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\bin\Debug\ANN_Network.pdb
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\bin\Debug\ANN_Network.xml
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\obj\Debug\ResolveAssemblyReference.cache
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\obj\Debug\TestHarness.Resources.resources
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\obj\Debug\TestHarness.vbproj.GenerateResource.Cache
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\obj\Debug\TestHarness.exe
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\obj\Debug\TestHarness.xml
+D:\Artificial Neural Network Framework\ANN_Network\TestHarness\obj\Debug\TestHarness.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\obj\Debug\TestHarness.exe
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\obj\Debug\TestHarness.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\obj\Debug\TestHarness.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\bin\Debug\TestHarness.exe
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\bin\Debug\TestHarness.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\bin\Debug\TestHarness.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\bin\Debug\ANN_Network.dll
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\bin\Debug\ANN_Network.pdb
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\bin\Debug\ANN_Network.xml
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\obj\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\obj\Debug\TestHarness.Resources.resources
+C:\Killian Intelligence Systems\Artificial Neural Network OO Framework\ANN_Network\TestHarness\obj\Debug\TestHarness.vbproj.GenerateResource.Cache

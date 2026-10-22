@@ -1,0 +1,3 @@
+﻿  Affinity_Population_Genetic_Backprop_Trainer_App_CPP.cpp
+C:\_KillianIntelligentAnalytics\Affinity\Affinity_Population_Genetic_Backprop_Trainer_App_CPP\Affinity_Population_Genetic_Backprop_Trainer_App_CPP\Affinity_Population_Genetic_Backprop_Trainer_App_CPP.cpp(682): warning C4715: 'CreateAffinityBackprop': not all control paths return a value
+  Affinity_Population_Genetic_Backprop_Trainer_App_CPP.vcxproj -> C:\_KillianIntelligentAnalytics\Affinity\Affinity_Population_Genetic_Backprop_Trainer_App_CPP\Debug\Affinity_Population_Genetic_Backprop_Trainer_App_CPP.exe

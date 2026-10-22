@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  Backprop_Process_App_CPP(Optimized).cpp
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized).cpp(164,48): warning C4551: function call missing argument list
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized).cpp(139,8): warning C4101: 'NewSBSize2': unreferenced local variable
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized).cpp(902,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized).cpp(903,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized).cpp(955,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized).cpp(1311,21): warning C4018: '<=': signed/unsigned mismatch
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized).cpp(1419,15): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized).cpp(1496,62): warning C4551: function call missing argument list
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized).cpp(1510,88): warning C4551: function call missing argument list
+C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized)\Backprop_Process_App_CPP(Optimized).cpp(1526,89): warning C4551: function call missing argument list
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 415 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Backprop_Process_App_CPP(Optimized).vcxproj -> C:\_Killian Intelligence Systems\Affinity\Backprop_Process_App_CPP(Optimized)\Release\Backprop_Process_App_CPP(Optimized).exe

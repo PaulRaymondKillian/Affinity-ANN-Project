@@ -1,0 +1,9 @@
+C:\KIS\Fractions1.BPROP
+C:\KIS\Fractions1.BPROP2
+c:\KIS\UtilityIndustry.BPROP
+C:\KIS\test3.BPROP
+C:\KIS\test2.BPROP
+C:\KIS\test2.BPROP2
+Fractions.BPROP
+test.BPROP
+C:\Killian Intelligence Systems\ANN_Backprop\Backprop_Process_App_CPP\Backprop_Process_App_CPP\0.00384624_TestFracs\0.00384624_TestFracs.BPROP2
